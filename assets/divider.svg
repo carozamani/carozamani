@@ -1,0 +1,27 @@
+<svg width="1200" height="24" viewBox="0 0 1200 24" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="dg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d0d0d;stop-opacity:0"/>
+      <stop offset="20%" style="stop-color:#A855F7;stop-opacity:0.5"/>
+      <stop offset="50%" style="stop-color:#A855F7;stop-opacity:1"/>
+      <stop offset="80%" style="stop-color:#A855F7;stop-opacity:0.5"/>
+      <stop offset="100%" style="stop-color:#0d0d0d;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="dg2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d0d0d;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#6d28d9;stop-opacity:0.3"/>
+      <stop offset="50%" style="stop-color:#6d28d9;stop-opacity:0.5"/>
+      <stop offset="70%" style="stop-color:#6d28d9;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#0d0d0d;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="24" fill="#0d0d0d"/>
+  <rect x="0" y="10" width="1200" height="4" fill="url(#dg2)" rx="2"/>
+  <rect x="0" y="11.5" width="1200" height="1" fill="url(#dg)"/>
+  <polygon points="600,7 606,12 600,17 594,12" fill="#A855F7" opacity="0.9"/>
+  <polygon points="600,9 604,12 600,15 596,12" fill="#0d0d0d"/>
+  <circle cx="560" cy="12" r="1.5" fill="#A855F7" opacity="0.5"/>
+  <circle cx="640" cy="12" r="1.5" fill="#A855F7" opacity="0.5"/>
+  <circle cx="530" cy="12" r="1" fill="#A855F7" opacity="0.3"/>
+  <circle cx="670" cy="12" r="1" fill="#A855F7" opacity="0.3"/>
+</svg>
