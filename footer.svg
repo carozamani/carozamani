@@ -1,0 +1,26 @@
+<svg width="1200" height="60" viewBox="0 0 1200 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d0d0d;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#A855F7;stop-opacity:0.6"/>
+      <stop offset="50%" style="stop-color:#A855F7;stop-opacity:1"/>
+      <stop offset="70%" style="stop-color:#A855F7;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#0d0d0d;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="fbg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d0d;stop-opacity:0"/>
+      <stop offset="100%" style="stop-color:#0d0d0d;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="60" fill="#0d0d0d"/>
+  <rect width="1200" height="60" fill="url(#fbg)"/>
+  <rect x="0" y="0" width="1200" height="1" fill="url(#fg)"/>
+  <g fill="none" stroke="#A855F7" stroke-width="1" opacity="0.4">
+    <polyline points="20,10 8,10 8,22"/>
+    <polyline points="1180,10 1192,10 1192,22"/>
+  </g>
+  <text x="600" y="35" text-anchor="middle" font-family="'Fira Code', 'Courier New', monospace" font-size="11" fill="#A855F7" opacity="0.5" letter-spacing="3">&#9658; carozamani.exit() &#8212; thanks for visiting</text>
+  <circle cx="590" cy="50" r="1" fill="#A855F7" opacity="0.3"/>
+  <circle cx="600" cy="50" r="1.5" fill="#A855F7" opacity="0.5"/>
+  <circle cx="610" cy="50" r="1" fill="#A855F7" opacity="0.3"/>
+</svg>
