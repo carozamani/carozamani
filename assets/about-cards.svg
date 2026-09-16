@@ -1,0 +1,50 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="abg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d0d"/>
+      <stop offset="50%" style="stop-color:#0a0f1a"/>
+      <stop offset="100%" style="stop-color:#0d0d0d"/>
+    </linearGradient>
+    <filter id="aglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="220" fill="url(#abg)"/>
+  <g opacity="0.04" stroke="#3B82F6" stroke-width="0.5">
+    <line x1="600" y1="0" x2="600" y2="220"/>
+    <line x1="0" y1="110" x2="1200" y2="110"/>
+  </g>
+  <g transform="translate(24,16)">
+    <rect width="564" height="86" rx="12" fill="#12161f" stroke="#3B82F6" stroke-opacity="0.35" stroke-width="1.2"/>
+    <circle cx="34" cy="29" r="16" fill="#F24E1E" opacity="0.15"/>
+    <text x="34" y="35" text-anchor="middle" font-size="16">&#127912;</text>
+    <text x="62" y="30" font-family="'Fira Code','Courier New',monospace" font-size="15" font-weight="700" fill="#ffffff">Design-led</text>
+    <text x="62" y="52" font-family="'Fira Code','Courier New',monospace" font-size="12" fill="#a3adc2">Research &#8594; flows &#8594; UI systems &#8594; prototypes.</text>
+    <text x="62" y="68" font-family="'Fira Code','Courier New',monospace" font-size="12" fill="#a3adc2">Every product decision starts here.</text>
+  </g>
+  <g transform="translate(612,16)">
+    <rect width="564" height="86" rx="12" fill="#12161f" stroke="#3B82F6" stroke-opacity="0.35" stroke-width="1.2"/>
+    <circle cx="34" cy="29" r="16" fill="#61DAFB" opacity="0.15"/>
+    <text x="34" y="35" text-anchor="middle" font-size="16">&#9889;</text>
+    <text x="62" y="30" font-family="'Fira Code','Courier New',monospace" font-size="15" font-weight="700" fill="#ffffff">Engineering-capable</text>
+    <text x="62" y="52" font-family="'Fira Code','Courier New',monospace" font-size="12" fill="#a3adc2">Build what I design with React / Next.js &#8212;</text>
+    <text x="62" y="68" font-family="'Fira Code','Courier New',monospace" font-size="12" fill="#a3adc2">and step in as front-end dev wherever needed.</text>
+  </g>
+  <g transform="translate(24,118)">
+    <rect width="564" height="86" rx="12" fill="#12161f" stroke="#3B82F6" stroke-opacity="0.35" stroke-width="1.2"/>
+    <circle cx="34" cy="29" r="16" fill="#336791" opacity="0.2"/>
+    <text x="34" y="35" text-anchor="middle" font-size="16">&#128752;</text>
+    <text x="62" y="30" font-family="'Fira Code','Courier New',monospace" font-size="15" font-weight="700" fill="#ffffff">Leveling up</text>
+    <text x="62" y="52" font-family="'Fira Code','Courier New',monospace" font-size="12" fill="#a3adc2">Expanding downward into the stack &#8212;</text>
+    <text x="62" y="68" font-family="'Fira Code','Courier New',monospace" font-size="12" fill="#a3adc2">currently learning PostgreSQL &amp; Python.</text>
+  </g>
+  <g transform="translate(612,118)">
+    <rect width="564" height="86" rx="12" fill="#12161f" stroke="#3B82F6" stroke-opacity="0.35" stroke-width="1.2"/>
+    <circle cx="34" cy="29" r="16" fill="#3B82F6" opacity="0.18"/>
+    <text x="34" y="35" text-anchor="middle" font-size="16">&#127760;</text>
+    <text x="62" y="30" font-family="'Fira Code','Courier New',monospace" font-size="15" font-weight="700" fill="#ffffff">Portfolio</text>
+    <text x="62" y="52" font-family="'Fira Code','Courier New',monospace" font-size="12" fill="#a3adc2">Full case studies live at</text>
+    <text x="62" y="68" font-family="'Fira Code','Courier New',monospace" font-size="12" fill="#3B82F6">carozamani.com</text>
+  </g>
+</svg>
