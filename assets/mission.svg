@@ -2,13 +2,13 @@
   <defs>
     <linearGradient id="mbg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#0d0d0d"/>
-      <stop offset="50%" style="stop-color:#0a0f1a"/>
+      <stop offset="50%" style="stop-color:#0a1512"/>
       <stop offset="100%" style="stop-color:#0d0d0d"/>
     </linearGradient>
     <linearGradient id="mlineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#0d0d0d;stop-opacity:0"/>
-      <stop offset="30%" style="stop-color:#3B82F6;stop-opacity:0.8"/>
-      <stop offset="70%" style="stop-color:#3B82F6;stop-opacity:0.8"/>
+      <stop offset="30%" style="stop-color:#0ABAB5;stop-opacity:0.8"/>
+      <stop offset="70%" style="stop-color:#0ABAB5;stop-opacity:0.8"/>
       <stop offset="100%" style="stop-color:#0d0d0d;stop-opacity:0"/>
     </linearGradient>
     <filter id="mglow" x="-50%" y="-50%" width="200%" height="200%">
@@ -17,13 +17,13 @@
     </filter>
   </defs>
   <rect width="1200" height="150" fill="url(#mbg)"/>
-  <g opacity="0.04" stroke="#3B82F6" stroke-width="0.5">
+  <g opacity="0.04" stroke="#0ABAB5" stroke-width="0.5">
     <line x1="0" y1="50" x2="1200" y2="50"/>
     <line x1="0" y1="100" x2="1200" y2="100"/>
   </g>
   <rect x="0" y="0" width="1200" height="1.5" fill="url(#mlineGrad)"/>
   <rect x="0" y="148.5" width="1200" height="1.5" fill="url(#mlineGrad)"/>
-  <g fill="none" stroke="#3B82F6" stroke-width="1.5" opacity="0.5">
+  <g fill="none" stroke="#0ABAB5" stroke-width="1.5" opacity="0.5">
     <polyline points="30,15 15,15 15,35"/>
     <polyline points="1170,15 1185,15 1185,35"/>
     <polyline points="30,135 15,135 15,115"/>
@@ -39,7 +39,7 @@
   <text x="40" y="136" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#a3adc2">workflow end to end. Owning product design, stepping into front-end wherever needed.</text>
   <g transform="translate(880,80)">
     <rect x="0" y="0" width="280" height="6" rx="3" fill="#1a2030"/>
-    <rect x="0" y="0" width="182" height="6" rx="3" fill="#3B82F6" filter="url(#mglow)"/>
-    <text x="0" y="-10" font-family="'Fira Code',monospace" font-size="11" fill="#3B82F6" opacity="0.8">PROGRESS ~65%</text>
+    <rect x="0" y="0" width="182" height="6" rx="3" fill="#0ABAB5" filter="url(#mglow)"/>
+    <text x="0" y="-10" font-family="'Fira Code',monospace" font-size="11" fill="#0ABAB5" opacity="0.8">PROGRESS ~65%</text>
   </g>
 </svg>
