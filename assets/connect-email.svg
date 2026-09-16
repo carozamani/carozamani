@@ -1,0 +1,14 @@
+<svg width="124" height="48" viewBox="0 0 124 48" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="g" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="1" y="1" width="122" height="46" rx="11" fill="#12161f" stroke="#EA4335" stroke-opacity="0.55" stroke-width="1.3" filter="url(#g)"/>
+  <g transform="translate(16,13)">
+    <rect x="0" y="0" width="22" height="22" rx="4" fill="none" stroke="#EA4335" stroke-width="1.6"/>
+    <polyline points="0,3 11,13 22,3" fill="none" stroke="#EA4335" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="50" y="29" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#e8e8e8">Email</text>
+</svg>
