@@ -1,10 +1,10 @@
 <svg width="640" height="40" viewBox="0 0 640 40" xmlns="http://www.w3.org/2000/svg">
   <rect width="640" height="40" fill="transparent"/>
   <g>
-    <text y="28" x="320" text-anchor="middle" font-family="'Fira Code', 'Courier New', monospace" font-size="16" fill="#3B82F6">Designing products that feel alive</text>
-    <text y="68" x="320" text-anchor="middle" font-family="'Fira Code', 'Courier New', monospace" font-size="16" fill="#3B82F6">Prototyping in Figma to Shipping in React</text>
-    <text y="108" x="320" text-anchor="middle" font-family="'Fira Code', 'Courier New', monospace" font-size="16" fill="#3B82F6">Currently expanding into the backend</text>
-    <text y="148" x="320" text-anchor="middle" font-family="'Fira Code', 'Courier New', monospace" font-size="16" fill="#3B82F6">Designing products that feel alive</text>
+    <text y="28" x="320" text-anchor="middle" font-family="'Fira Code','Courier New',monospace" font-size="16" fill="#0ABAB5">Designing products that feel alive</text>
+    <text y="68" x="320" text-anchor="middle" font-family="'Fira Code','Courier New',monospace" font-size="16" fill="#0ABAB5">Prototyping in Figma to Shipping in React</text>
+    <text y="108" x="320" text-anchor="middle" font-family="'Fira Code','Courier New',monospace" font-size="16" fill="#0ABAB5">Currently expanding into the backend</text>
+    <text y="148" x="320" text-anchor="middle" font-family="'Fira Code','Courier New',monospace" font-size="16" fill="#0ABAB5">Designing products that feel alive</text>
     <animateTransform attributeName="transform" type="translate"
       values="0,0; 0,0; 0,-40; 0,-40; 0,-80; 0,-80; 0,-120; 0,-120"
       keyTimes="0; 0.22; 0.27; 0.47; 0.52; 0.72; 0.77; 1"
