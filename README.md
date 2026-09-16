@@ -12,11 +12,11 @@
 
 <a href="https://linkedin.com/in/carozamani"><img src="./assets/connect-linkedin.svg" height="44"/></a>
 &nbsp;
-<a href="https://behance.net/carozamani"><img src="./assets/connect-behance.svg" height="44"/></a>
-&nbsp;
 <a href="https://carozamani.com/"><img src="./assets/connect-website.svg" height="44"/></a>
 &nbsp;
-<a href="mailto:carozamani@gmail.com"><img src="./assets/connect-email.svg" height="44"/></a>
+<a href="#"><img src="./assets/connect-castbox.svg" height="44"/></a>
+&nbsp;
+<a href="#"><img src="./assets/connect-medium.svg" height="44"/></a>
 
 </div>
 
